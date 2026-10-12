@@ -1,5 +1,5 @@
 # road_collision_detection_app
-ROADGUARD AI: Road object detection and alert generator
+ROADGUARD AI: Road object detection and collision alert generator
 Road Collision Detection System
 Project Overview
 
